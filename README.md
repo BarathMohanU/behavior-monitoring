@@ -42,11 +42,11 @@ The dataset is prepared in the following manner:
 
 2. The videos are processed by passing each frame to the CLIP model:
 
-  a. The `ViT-B/32` variant of clip is used due to its light-weight nature. The variant to be used is defined in `./jsons/parameters.json` and can be altered.
+a. The `ViT-B/32` variant of clip is used due to its light-weight nature. The variant to be used is defined in `./jsons/parameters.json` and can be altered.
 
-  b. The text prompts used are stored `./jsons/text_prompts.json`. A total of 26 prompts are used which could derive meaningful features for predicting arm flapping, head banging, or spinning.
+b. The text prompts used are stored `./jsons/text_prompts.json`. A total of 26 prompts are used which could derive meaningful features for predicting arm flapping, head banging, or spinning.
 
-  c. The dot product of the image features and text features is taken from the CLIP model. A min-max scaling is applied to this output rather than a softmax as the text prompts are not necessarily mutually exclusive.
+c. The dot product of the image features and text features is taken from the CLIP model. A min-max scaling is applied to this output rather than a softmax as the text prompts are not necessarily mutually exclusive.
 
 3. The features of the videos are then split into 2 second sliding windows with a stide of 1 frame. Each window forms a single sample for the downstream network. The activity which takes place in the majority of the window is considered the label for the window.
 
