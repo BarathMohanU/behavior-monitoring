@@ -66,10 +66,15 @@ python train.py --data_path "../data/"
 ```
 
 1. The transformer model is defined in `./utils/transformer_model.py` and its hyperparameters of the model are defined in `./jsons/parameters.json`.
+   
 2. The inputs to the model are of form `[batch_size, time, features]`. The output of the model is a softmax over four classes: `["No Action", "Arm Flapping", "Head Banging", "Spinning"]` denoting the probabilities of actions predominantly present in the 2s window.
+   
 3. The model uses basic transformer encoder blocks with self-attention to process the inputs. Then it applies a series of dense layers before flattening the time dimension to reduce dimensionality. Then it again applies a series of dense layers after flattening the latents. Then finally an output dense layer with 4 units predicts the labels.
+   
 4. The hyperparameters of this network are not tuned (due to time and hardware constraints) and are set using intuition. Batch normalization and dropout are used along with the dense layers. The activation function of choice is `ELU`.
+   
 5. The [focal crossentropy loss](https://arxiv.org/pdf/1708.02002.pdf) is used to combat class imbalance in the dataset without needing to undersample or oversample.
+    
 6. The weights of the model in best epoch in terms of loss on the validation set are selected. The best weights are stored in `./model_utils/transformer_weights.hdf5`.
 
 ### Evaluation
