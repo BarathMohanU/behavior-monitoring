@@ -38,13 +38,21 @@ python preprocess_data.py --data_path "../data/"
 The dataset is prepared in the following manner:
 
 1. The videos are read from one by one.
+
 2. The videos are processed by passing each frame to the CLIP model:
+
    1. The `ViT-B/32` variant of clip is used due to its light-weight nature. The variant to be used is defined in `./jsons/parameters.json` and can be altered.
+
    2. The text prompts used are stored `./jsons/text_prompts.json`. A total of 26 prompts are used which could derive meaningful features for predicting arm flapping, head banging, or spinning.
+
    3. The dot product of the image features and text features is taken from the CLIP model. A min-max scaling is applied to this output rather than a softmax as the text prompts are not necessarily mutually exclusive.
+
 3. The features of the videos are then split into 2 second sliding windows with a stide of 1 frame. Each window forms a single sample for the downstream network. The activity which takes place in the majority of the window is considered the label for the window.
+   
 4. Data preparation predominantly makes use of classes and functions defined in `./utils/data_utils.py`.
+   
 5. The processed data file, which is ready for training is stored in `../data/processed_training_data.pkl`.
+   
 6. The list of names of videos in the train-val-test split is stored in `./jsons/train_val_test_split.json`.
 
 ### Model Training
