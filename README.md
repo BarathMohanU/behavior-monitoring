@@ -87,7 +87,7 @@ python evaluate.py --data_path "../data/"
 
 Evaluation of the model can be done in two ways. The model can be used to predict the majority action in the entire video or in 2 sec windows of a video. The model is evaluated in both ways separately and the results (confusion matrix and classification report) are stored in `./results/`.
 
-### Running on a new video
+### Testing on a new video
 
 The model can be run on a new video to predict the action in it by running
 
