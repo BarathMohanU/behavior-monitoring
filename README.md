@@ -39,21 +39,20 @@ The dataset is prepared in the following manner:
 
 1. The videos are read from one by one.
 
-
 2. The videos are processed by passing each frame to the CLIP model:
 
-  a. The `ViT-B/32` variant of clip is used due to its light-weight nature. The variant to be used is defined in `./jsons/parameters.json` and can be altered.
+   1. The `ViT-B/32` variant of clip is used due to its light-weight nature. The variant to be used is defined in `./jsons/parameters.json` and can be altered.
 
-  b. The text prompts used are stored `./jsons/text_prompts.json`. A total of 26 prompts are used which could derive meaningful features for predicting arm flapping, head banging, or spinning.
+   2. The text prompts used are stored `./jsons/text_prompts.json`. A total of 26 prompts are used which could derive meaningful features for predicting arm flapping, head banging, or spinning.
 
-  c. The dot product of the image features and text features is taken from the CLIP model. A min-max scaling is applied to this output rather than a softmax as the text prompts are not necessarily mutually exclusive.
+   3. The dot product of the image features and text features is taken from the CLIP model. A min-max scaling is applied to this output rather than a softmax as the text prompts are not necessarily mutually exclusive.
 
 3. The features of the videos are then split into 2 second sliding windows with a stide of 1 frame. Each window forms a single sample for the downstream network. The activity which takes place in the majority of the window is considered the label for the window.
-
+   
 4. Data preparation predominantly makes use of classes and functions defined in `./utils/data_utils.py`.
-
+   
 5. The processed data file, which is ready for training is stored in `../data/processed_training_data.pkl`.
-
+   
 6. The list of names of videos in the train-val-test split is stored in `./jsons/train_val_test_split.json`.
 
 ### Model Training
@@ -66,17 +65,16 @@ The transformer model can be trained by using this command:
 python train.py --data_path "../data/"
 ```
 
-
 1. The transformer model is defined in `./utils/transformer_model.py` and its hyperparameters of the model are defined in `./jsons/parameters.json`.
-
+   
 2. The inputs to the model are of form `[batch_size, time, features]`. The output of the model is a softmax over four classes: `["No Action", "Arm Flapping", "Head Banging", "Spinning"]` denoting the probabilities of actions predominantly present in the 2s window.
-
+   
 3. The model uses basic transformer encoder blocks with self-attention to process the inputs. Then it applies a series of dense layers before flattening the time dimension to reduce dimensionality. Then it again applies a series of dense layers after flattening the latents. Then finally an output dense layer with 4 units predicts the labels.
-
+   
 4. The hyperparameters of this network are not tuned (due to time and hardware constraints) and are set using intuition. Batch normalization and dropout are used along with the dense layers. The activation function of choice is `ELU`.
-
+   
 5. The [focal crossentropy loss](https://arxiv.org/pdf/1708.02002.pdf) is used to combat class imbalance in the dataset without needing to undersample or oversample.
-
+    
 6. The weights of the model in best epoch in terms of loss on the validation set are selected. The best weights are stored in `./model_utils/transformer_weights.hdf5`.
 
 ### Evaluation
@@ -89,7 +87,7 @@ python evaluate.py --data_path "../data/"
 
 Evaluation of the model can be done in two ways. The model can be used to predict the majority action in the entire video or in 2 sec windows of a video. The model is evaluated in both ways separately and the results (confusion matrix and classification report) are stored in `./results/`.
 
-### Running on a new video
+### Testing on a new video
 
 The model can be run on a new video to predict the action in it by running
 
