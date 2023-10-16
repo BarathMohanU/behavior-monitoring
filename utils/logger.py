@@ -1,6 +1,7 @@
 import logging
 import pytz
 from datetime import datetime
+import os
 
 class LoggerManager:
     class ISTFormatter(logging.Formatter):
@@ -64,6 +65,9 @@ class LoggerManager:
         # Create logger
         logger = logging.getLogger(name)
         logger.setLevel(logging.INFO)
+
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(log_file), exist_ok=True)
         
         # Create file handler and set level to debug
         fh = logging.FileHandler(log_file)
