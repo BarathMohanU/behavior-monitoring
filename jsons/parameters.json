@@ -1,0 +1,26 @@
+{
+    "clip_variant": "ViT-B/32",
+    "transformer_hyperparameters": {
+        "frame_window": 48,
+        "frame_stride": 1,
+        "input_shape": 26,
+        "num_heads": 4,
+        "num_transformer_blocks": 4,
+        "dropout": 0.1,
+        "pre_dense_layers": [
+            16,
+            8,
+            4
+        ],
+        "dense_layers": [
+            128,
+            64,
+            32,
+            16,
+            8
+        ],
+        "learning_rate": 0.0005,
+        "batch_size": 256,
+        "epochs": 20
+    }
+}

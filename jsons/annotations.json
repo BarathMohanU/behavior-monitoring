@@ -1,0 +1,2341 @@
+{
+    "v_ArmFlapping_01": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "18:24"
+                },
+                {
+                    "bodypart": "full",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "27:32"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "46s",
+        "frames": 1365,
+        "height": 360,
+        "id": "v_ArmFlapping_01",
+        "keyword": "10_yr_severe_autistic",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=I7fdv1q9-m8",
+        "width": 480
+    },
+    "v_ArmFlapping_02": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "11:16"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "19:23"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "29:33"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "51s",
+        "frames": 1539,
+        "height": 360,
+        "id": "v_ArmFlapping_02",
+        "keyword": "Arm flapping",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=hKf-IwHM6TI",
+        "width": 204
+    },
+    "v_ArmFlapping_03": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "22:27"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "62s",
+        "frames": 1857,
+        "height": 360,
+        "id": "v_ArmFlapping_03",
+        "keyword": "Arm Flapping",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=Z2kfvB4lv7A",
+        "width": 480
+    },
+    "v_ArmFlapping_04": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0105:0125"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0212:0220"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "200s",
+        "frames": 5987,
+        "height": 360,
+        "id": "v_ArmFlapping_04",
+        "keyword": "Arm Flapping",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=SOc13pnf-Dc",
+        "width": 640
+    },
+    "v_ArmFlapping_05": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0014"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "35s",
+        "frames": 525,
+        "height": 360,
+        "id": "v_ArmFlapping_05",
+        "keyword": "Arm flapping",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=8vFUIFEfRpA",
+        "width": 640
+    },
+    "v_ArmFlapping_06": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0027:0030"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0040:0043"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0140:0142"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "106s",
+        "frames": 3174,
+        "height": 360,
+        "id": "v_ArmFlapping_06",
+        "keyword": "Arm flapping",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=ehlLfMossUY",
+        "width": 204
+    },
+    "v_ArmFlapping_07": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0004:0010"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0015:0020"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "46s",
+        "frames": 1388,
+        "height": 360,
+        "id": "v_ArmFlapping_07",
+        "keyword": "Arm flapping in the cast",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=T9rbit_oiJA",
+        "width": 640
+    },
+    "v_ArmFlapping_08": {
+        "behaviours": {
+            "count": 7,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0018:0021"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0047:0051"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0110:0117"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0130:0148"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_05",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0202:0214"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_06",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0315:0320"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_07",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0338:0343"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "253s",
+        "frames": 6084,
+        "height": 240,
+        "id": "v_ArmFlapping_08",
+        "keyword": "Autism   Aspergers Flapping Arms Hands",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=5Ps9iE8mPqY",
+        "width": 320
+    },
+    "v_ArmFlapping_09": {
+        "behaviours": {
+            "count": 5,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0005:0015"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0030:0044"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0055:0110"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0125:0140"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_05",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0205:0219"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "169s",
+        "frames": 5040,
+        "height": 360,
+        "id": "v_ArmFlapping_09",
+        "keyword": "Autism / Asperger's Flapping Arms Hands Fingers III",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=C_O8vyrSt0Q",
+        "width": 480
+    },
+    "v_ArmFlapping_10": {
+        "behaviours": {
+            "count": 4,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0018:0027"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0033:0037"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0050:0057"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0108:0125"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "134s",
+        "frames": 3216,
+        "height": 240,
+        "id": "v_ArmFlapping_10",
+        "keyword": "Autism  Asperger Flapping ArmsHands II",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=iDuAugAykcc",
+        "width": 320
+    },
+    "v_ArmFlapping_11": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0100:0107"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0100:0107"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "138s",
+        "frames": 3319,
+        "height": 360,
+        "id": "v_ArmFlapping_11",
+        "keyword": "Awareness pt2  Signs of Autism",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=WRGUUOZ5_wA",
+        "width": 640
+    },
+    "v_ArmFlapping_12": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0003:0030"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0114:0210"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0214:0235"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "165s",
+        "frames": 4912,
+        "height": 360,
+        "id": "v_ArmFlapping_12",
+        "keyword": "Evie autistic stimming",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=mnBWOI4LuKw",
+        "width": 480
+    },
+    "v_ArmFlapping_13": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0019:0022"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0040:0051"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "86s",
+        "frames": 2586,
+        "height": 360,
+        "id": "v_ArmFlapping_13",
+        "keyword": "Flapping his arms ",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=3Oh_Lmehb6c",
+        "width": 640
+    },
+    "v_ArmFlapping_14": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0003:0007"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "57s",
+        "frames": 1403,
+        "height": 240,
+        "id": "v_ArmFlapping_14",
+        "keyword": "Hand Stimming/Flapping",
+        "persons": 4,
+        "url": "http://www.youtube.com/watch?v=pz1nIbRWb2M",
+        "width": 320
+    },
+    "v_ArmFlapping_15": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0017:0023"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0032:0037"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "39s",
+        "frames": 1147,
+        "height": 360,
+        "id": "v_ArmFlapping_15",
+        "keyword": "Happy Baby Sawyer! ARM Flapping Excitement to see Ah Dah Da",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=nGoMpqcYcOg",
+        "width": 640
+    },
+    "v_ArmFlapping_16": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0032:0046"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "54",
+        "frames": 1604,
+        "height": 360,
+        "id": "v_ArmFlapping_16",
+        "keyword": "Head bangin",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=5sgfS0SSh8o",
+        "width": 202
+    },
+    "v_ArmFlapping_17": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0014"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0019:0023"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0036:0039"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "46s",
+        "frames": 1091,
+        "height": 360,
+        "id": "v_ArmFlapping_17",
+        "keyword": "J arm flapping",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=vtVnrV_jog0",
+        "width": 640
+    },
+    "v_ArmFlapping_18": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0003:0007"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0040:0050"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "89s",
+        "frames": 2652,
+        "height": 360,
+        "id": "v_ArmFlapping_18",
+        "keyword": "Jack - building lego bridge with arm flapping - September 8, 2009",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=JM8BHjJTSFM",
+        "width": 480
+    },
+    "v_ArmFlapping_19": {
+        "behaviours": {
+            "count": 4,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0100:0134"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0140:0200"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0255:0310"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0325:0339"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "261s",
+        "frames": 7806,
+        "height": 360,
+        "id": "v_ArmFlapping_19",
+        "keyword": "Jacob rocking on daddy's lap, also arm flapping!!",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=1vRklwIBC28",
+        "width": 480
+    },
+    "v_ArmFlapping_20": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0134:0138"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "110s",
+        "frames": 3321,
+        "height": 240,
+        "id": "v_ArmFlapping_20",
+        "keyword": "Kathryn shows us the arm flap",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=MOt-6FAEP_g",
+        "width": 320
+    },
+    "v_ArmFlapping_21": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0007:0016"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "23s",
+        "frames": 672,
+        "height": 360,
+        "id": "v_ArmFlapping_21",
+        "keyword": "Madelyn hand flapping",
+        "persons": 8,
+        "url": "http://www.youtube.com/watch?v=AQ-jO6O5gow",
+        "width": 480
+    },
+    "v_ArmFlapping_22": {
+        "behaviours": {
+            "count": 5,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0006"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0041:0055"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0100:0129"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0134:0142"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_05",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0150:0158"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "122s",
+        "frames": 3651,
+        "height": 288,
+        "id": "v_ArmFlapping_22",
+        "keyword": "My nephew flapping his arms",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=UxpQpWzhOx0",
+        "width": 352
+    },
+    "v_ArmFlapping_23": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0003:0009"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0049:0057"
+                },
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0100:0110"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "107s",
+        "frames": 2205,
+        "height": 360,
+        "id": "v_ArmFlapping_23",
+        "keyword": "stimming Hand flapping walking in circles and spinning sensory integration disorder",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=xeKKMkVgNPU",
+        "width": 540
+    },
+    "v_ArmFlapping_24": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0008:0015"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "41s",
+        "frames": 1034,
+        "height": 360,
+        "id": "v_ArmFlapping_24",
+        "keyword": "Stimming Autistic Boy",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=AGmXuSY4gx0",
+        "width": 480
+    },
+    "v_ArmFlapping_25": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "hand",
+                    "category": "armflapping",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0004:0008"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "23s",
+        "frames": 704,
+        "height": 360,
+        "id": "v_ArmFlapping_25",
+        "keyword": "Toddler arm flapping",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=I2rfPPinMHk",
+        "width": 640
+    },
+    "v_HeadBanging_01": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0004"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "31s",
+        "frames": 920,
+        "height": 144,
+        "id": "v_HeadBanging_01",
+        "keyword": "1 year old boy head banging",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=yCaymsrcNwA",
+        "width": 192
+    },
+    "v_HeadBanging_02": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0004:0009"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0036:0044"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "57s",
+        "frames": 1693,
+        "height": 360,
+        "id": "v_HeadBanging_02",
+        "keyword": "3 Year Old Headbanging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=a5BuwkqtIa0",
+        "width": 480
+    },
+    "v_HeadBanging_03": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0006:0014"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "15s",
+        "frames": 457,
+        "height": 144,
+        "id": "v_HeadBanging_03",
+        "keyword": "6 month old headbanging sad but true",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=k9MJ4pDQQ74",
+        "width": 192
+    },
+    "v_HeadBanging_04": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0016:0030"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0034:0039"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "54s",
+        "frames": 1588,
+        "height": 360,
+        "id": "v_HeadBanging_04",
+        "keyword": "10 month old baby head banging",
+        "persons": 3,
+        "url": "http://www.youtube.com/watch?v=pzPhXbGEpSo",
+        "width": 480
+    },
+    "v_HeadBanging_05": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0003:0017"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "20s",
+        "frames": 582,
+        "height": 360,
+        "id": "v_HeadBanging_05",
+        "keyword": "11 month old head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=Lex0gIMd73g",
+        "width": 204
+    },
+    "v_HeadBanging_06": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0010:0019"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "23s",
+        "frames": 691,
+        "height": 360,
+        "id": "v_HeadBanging_06",
+        "keyword": "Anthony Head Banging",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=WLtorzPESbc",
+        "width": 480
+    },
+    "v_HeadBanging_07": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0055:0104"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "180s",
+        "frames": 2708,
+        "height": 144,
+        "id": "v_HeadBanging_07",
+        "keyword": "Autism....Jaiden",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=nwLp0k1xa0o",
+        "width": 176
+    },
+    "v_HeadBanging_08": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0125:0135"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "161s",
+        "frames": 6695,
+        "height": 240,
+        "id": "v_HeadBanging_08",
+        "keyword": "Autism_Giggles_squeals_head_spinning_and_banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=Pqd9Vu-juPI",
+        "width": 320
+    },
+    "v_HeadBanging_09": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0002:0010"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "14s",
+        "frames": 208,
+        "height": 240,
+        "id": "v_HeadBanging_09",
+        "keyword": "Baby Head-Banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=WcsZ9eMQ5Zs",
+        "width": 320
+    },
+    "v_HeadBanging_10": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0016:0022"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "46s",
+        "frames": 1372,
+        "height": 240,
+        "id": "v_HeadBanging_10",
+        "keyword": "Continuation of Baby Ayaan's head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=aNaC46cUOJo",
+        "width": 320
+    },
+    "v_HeadBanging_11": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0036:0039"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "76s",
+        "frames": 2280,
+        "height": 360,
+        "id": "v_HeadBanging_11",
+        "keyword": "Emerson Upset, Bangs Head on Floor",
+        "persons": 3,
+        "url": "http://www.youtube.com/watch?v=Pa-pdBF4FFA",
+        "width": 640
+    },
+    "v_HeadBanging_12": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0002:0012"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "72s",
+        "frames": 2157,
+        "height": 360,
+        "id": "v_HeadBanging_12",
+        "keyword": "Excessive head banging and tantrum",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=5WTHMIJ_61I",
+        "width": 204
+    },
+    "v_HeadBanging_13": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0020"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "30s",
+        "frames": 703,
+        "height": 360,
+        "id": "v_HeadBanging_13",
+        "keyword": "Hardcore Violent Headbanging",
+        "persons": 3,
+        "url": "http://www.youtube.com/watch?v=B9hYEIjsHDA",
+        "width": 640
+    },
+    "v_HeadBanging_14": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0004:0030"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "33s",
+        "frames": 980,
+        "height": 360,
+        "id": "v_HeadBanging_14",
+        "keyword": "Hayden's head banging",
+        "persons": 3,
+        "url": "http://www.youtube.com/watch?v=0Vk9itex_ds",
+        "width": 204
+    },
+    "v_HeadBanging_15": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0023"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "53s",
+        "frames": 1460,
+        "height": 240,
+        "id": "v_HeadBanging_15",
+        "keyword": "Head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=9zOrUA7Kn4o",
+        "width": 320
+    },
+    "v_HeadBanging_16": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0010:0017"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "61s",
+        "frames": 1819,
+        "height": 360,
+        "id": "v_HeadBanging_16",
+        "keyword": "Head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=Lw-MsQ2k6ZQ",
+        "width": 204
+    },
+    "v_HeadBanging_17": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0058"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "109s",
+        "frames": 3250,
+        "height": 360,
+        "id": "v_HeadBanging_17",
+        "keyword": "Head Banging 101",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=8SrUO-NdSZU",
+        "width": 480
+    },
+    "v_HeadBanging_18": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0015"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "26s",
+        "frames": 1012,
+        "height": 240,
+        "id": "v_HeadBanging_18",
+        "keyword": "Headbanging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=TVMWW9SejgI",
+        "width": 320
+    },
+    "v_HeadBanging_19": {
+        "behaviours": {
+            "count": 4,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0030:0040"
+                },
+                {
+                    "bodypart": "arm",
+                    "category": "armflapping",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0204:0230"
+                },
+                {
+                    "bodypart": "arm",
+                    "category": "armflapping",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0256:0307"
+                },
+                {
+                    "bodypart": "arm",
+                    "category": "armflapping",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0326:0331"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "243s",
+        "frames": 7290,
+        "height": 360,
+        "id": "v_HeadBanging_19",
+        "keyword": "Just two little autistic kids",
+        "persons": 5,
+        "url": "http://www.youtube.com/watch?v=I38WtUMuQwM",
+        "width": 480
+    },
+    "v_HeadBanging_20": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0007"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0018:0025"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0036:0050"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "58s",
+        "frames": 1726,
+        "height": 360,
+        "id": "v_HeadBanging_20",
+        "keyword": "Molly - Head Banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=yMgx2lVjf5I",
+        "width": 480
+    },
+    "v_HeadBanging_21": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0008:0018"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0020:0044"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_03",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0054:0123"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "90s",
+        "frames": 1337,
+        "height": 144,
+        "id": "v_HeadBanging_21",
+        "keyword": "Our Crazy Baby Roman Headbanging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=BUAFdqrw4fA",
+        "width": 256
+    },
+    "v_HeadBanging_22": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0009:0026"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "53s",
+        "frames": 1769,
+        "height": 360,
+        "id": "v_HeadBanging_22",
+        "keyword": "Pre school head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=6sR-8llWl_s",
+        "width": 216
+    },
+    "v_HeadBanging_23": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0005:0010"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "14s",
+        "frames": 392,
+        "height": 360,
+        "id": "v_HeadBanging_23",
+        "keyword": "Retarded kid head banging",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=w96PxUcoo58",
+        "width": 480
+    },
+    "v_HeadBanging_24": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0003:0010"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "16s",
+        "frames": 458,
+        "height": 360,
+        "id": "v_HeadBanging_24",
+        "keyword": "Sofia head banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=hX3sIO2wc1s",
+        "width": 270
+    },
+    "v_HeadBanging_25": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "headbanging",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0020"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "22s",
+        "frames": 321,
+        "height": 288,
+        "id": "v_HeadBanging_25",
+        "keyword": "Twin toddlers headbanging on the couch",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=zuoD4tEtYyk",
+        "width": 352
+    },
+    "v_Spinning_01": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0108:0123"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "149s",
+        "frames": 4447,
+        "height": 240,
+        "id": "v_Spinning_01",
+        "keyword": "autism   pdd nos symptoms Spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=uNpUNkjNreg",
+        "width": 320
+    },
+    "v_Spinning_02": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0010:0020"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "96s",
+        "frames": 2854,
+        "height": 360,
+        "id": "v_Spinning_02",
+        "keyword": "Autism - Ayden Spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=sAgAvYT3D8s",
+        "width": 480
+    },
+    "v_Spinning_03": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "head",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0010:0015"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "161s",
+        "frames": 6695,
+        "height": 240,
+        "id": "v_Spinning_03",
+        "keyword": "Autism Giggles squeals head spinning and banging",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=Pqd9Vu-juPI",
+        "width": 320
+    },
+    "v_Spinning_04": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0110"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "86s",
+        "frames": 2051,
+        "height": 360,
+        "id": "v_Spinning_04",
+        "keyword": "Autism Spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=Gt-WMpTP7IE",
+        "width": 640
+    },
+    "v_Spinning_05": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0015"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "19s",
+        "frames": 191,
+        "height": 240,
+        "id": "v_Spinning_05",
+        "keyword": "Autism Spinning",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=arn5UCMLlBo",
+        "width": 320
+    },
+    "v_Spinning_06": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0020"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "40s",
+        "frames": 1179,
+        "height": 360,
+        "id": "v_Spinning_06",
+        "keyword": "autism spinning fun",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=cxqsde-6V-c",
+        "width": 640
+    },
+    "v_Spinning_07": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0006-0018"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "30s",
+        "frames": 682,
+        "height": 360,
+        "id": "v_Spinning_07",
+        "keyword": "Autism toddler spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=2AS14wxMB-A",
+        "width": 202
+    },
+    "v_Spinning_08": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002-0059"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "81s",
+        "frames": 808,
+        "height": 240,
+        "id": "v_Spinning_08",
+        "keyword": "Autism-Spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=5MS6VZwZDi0",
+        "width": 320
+    },
+    "v_Spinning_09": {
+        "behaviours": {
+            "count": 3,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0004-0012"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0028-0047"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0058-0104"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "69s",
+        "frames": 2066,
+        "height": 320,
+        "id": "v_Spinning_09",
+        "keyword": "Autistic (Aspergers) 8 year old over stimulated - Stimming",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=oukupxRUA84",
+        "width": 568
+    },
+    "v_Spinning_10": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0003-0028"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "43s",
+        "frames": 1270,
+        "height": 360,
+        "id": "v_Spinning_10",
+        "keyword": "Autistic Son (Aspergers) Spinning at the store",
+        "persons": 3,
+        "url": "http://www.youtube.com/watch?v=uWgI1w2fQhs",
+        "width": 480
+    },
+    "v_Spinning_11": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0003-0020"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "34s",
+        "frames": 505,
+        "height": 360,
+        "id": "v_Spinning_11",
+        "keyword": "Baby with autism spinning to twinkle twlinkle",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=VAMZwnfAHyY",
+        "width": 640
+    },
+    "v_Spinning_12": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002-0150"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "115s",
+        "frames": 3424,
+        "height": 360,
+        "id": "v_Spinning_12",
+        "keyword": "Boy with Autism Spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=ZHJr17Q4384",
+        "width": 204
+    },
+    "v_Spinning_13": {
+        "behaviours": {
+            "count": 4,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001-0024"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0036-0157"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_03",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0205-0245"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_04",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0300-0319"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "207s",
+        "frames": 6185,
+        "height": 360,
+        "id": "v_Spinning_13",
+        "keyword": "Child with Autism (Asperger's) Spinning on Gym Spin",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=5BVFjqo0FUY",
+        "width": 480
+    },
+    "v_Spinning_14": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0051-0058"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "78s",
+        "frames": 2327,
+        "height": 360,
+        "id": "v_Spinning_14",
+        "keyword": "Diagnosed Autism Spinning And flapping, flapping And more spinning",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=pgj_LKf6jL4",
+        "width": 480
+    },
+    "v_Spinning_15": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0001:0010"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "26s",
+        "frames": 754,
+        "height": 360,
+        "id": "v_Spinning_15",
+        "keyword": "Early signs of autism  stimming",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=gKED6S0eGYA",
+        "width": 480
+    },
+    "v_Spinning_16": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0006:0012"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0115:0135"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "127s",
+        "frames": 2024,
+        "height": 480,
+        "id": "v_Spinning_16",
+        "keyword": "Early Signs of autism- spinning and teeth grinding",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=NDcUGYlTy_4",
+        "width": 360
+    },
+    "v_Spinning_17": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0002:0020"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0030:0103"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "121s",
+        "frames": 3600,
+        "height": 360,
+        "id": "v_Spinning_17",
+        "keyword": "Girl with Autism spinning",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=wu5fgT-LkHs",
+        "width": 640
+    },
+    "v_Spinning_18": {
+        "behaviours": {
+            "count": 5,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0047"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0100:0128"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "spinning",
+                    "id": "b_03",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0145:0208"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "spinning",
+                    "id": "b_04",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0220:0227"
+                },
+                {
+                    "bodypart": "head",
+                    "category": "spinning",
+                    "id": "b_05",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0243:0455"
+                }
+            ]
+        },
+        "conversation": false,
+        "duration": "295",
+        "frames": 8836,
+        "height": 360,
+        "id": "v_Spinning_18",
+        "keyword": "Jake doing multiple things arm swinging head rocking yelling making sounds like ah ah ah and la la la",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=scM9g0LExJA",
+        "width": 480
+    },
+    "v_Spinning_19": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0056:0103"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "133s",
+        "frames": 3956,
+        "height": 360,
+        "id": "v_Spinning_19",
+        "keyword": "Jumping and spinning",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=AXghcX_Bjac",
+        "width": 480
+    },
+    "v_Spinning_20": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0002:0009"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "79s",
+        "frames": 1572,
+        "height": 240,
+        "id": "v_Spinning_20",
+        "keyword": "Kierra showing her classic autism symptoms",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=TH5mlAhdw00",
+        "width": 320
+    },
+    "v_Spinning_21": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0002:0047"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "127s",
+        "frames": 1904,
+        "height": 360,
+        "id": "v_Spinning_21",
+        "keyword": "little Boy with Autism spinning in circles untill dizzy and trying to sing",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=kFuxwAufWvQ",
+        "width": 640
+    },
+    "v_Spinning_22": {
+        "behaviours": {
+            "count": 2,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0002:0007"
+                },
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_02",
+                    "intensity": "low",
+                    "modality": "video",
+                    "time": "0015:0120"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "81s",
+        "frames": 2008,
+        "height": 360,
+        "id": "v_Spinning_22",
+        "keyword": "More spinning from vaccum  Hunter Autism ~ stimming",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=8R1MfXoI3mo",
+        "width": 480
+    },
+    "v_Spinning_23": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0001:0235"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "158s",
+        "frames": 2357,
+        "height": 240,
+        "id": "v_Spinning_23",
+        "keyword": "My Son Spinning - AUTISM",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=yiEo7Kg1ngY",
+        "width": 320
+    },
+    "v_Spinning_24": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0026:0043"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "47s",
+        "frames": 1435,
+        "height": 288,
+        "id": "v_Spinning_24",
+        "keyword": "Autistic behaviors - son rolling/spinning in grass",
+        "persons": 1,
+        "url": "http://www.youtube.com/watch?v=-rC-ab0nzxY",
+        "width": 352
+    },
+    "v_Spinning_25": {
+        "behaviours": {
+            "count": 1,
+            "id": "b_Set_01",
+            "list": [
+                {
+                    "bodypart": "body",
+                    "category": "spinning",
+                    "id": "b_01",
+                    "intensity": "high",
+                    "modality": "video",
+                    "time": "0025:0028"
+                }
+            ]
+        },
+        "conversation": true,
+        "duration": "68s",
+        "frames": 2033,
+        "height": 240,
+        "id": "v_Spinning_25",
+        "keyword": "Spinning autism sign?",
+        "persons": 2,
+        "url": "http://www.youtube.com/watch?v=VxK45NHvHTg",
+        "width": 320
+    }
+}

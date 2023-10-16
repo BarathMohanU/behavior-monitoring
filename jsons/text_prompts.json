@@ -1,0 +1,9 @@
+[
+    "arms blurred", "both arms raised", "both arms down", "one arm raised", "one arm blurred", "arms parallel to the floor", "arms angled away from body",
+
+    "head blurred", "head upright", "head bent down", "neck bent down", "body bent down", "looking upwards",
+
+    "facing forward", "facing to the side", "facing backwards", "body oriented diagonally", "body blurred", "body in twisted posture",
+
+    "no child in photo", "child seated", "child in mid-jump", "child lying down", "child interacting with object", "legs together", "legs apart"
+]
